@@ -20,9 +20,9 @@
 
 TODO: 
 
-[] how to exit
-[] gui
-[] image crop
+- [ ] how to exit
+- [ ] gui
+- [ ] image crop
 
 # AUTO Wallpaper Changer
 
